@@ -1,0 +1,1 @@
+chọn "Kernel - Restart & Run All" để restart và chạy tất cả các cell trong notebook
